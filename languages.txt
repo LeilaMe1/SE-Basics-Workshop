@@ -1,1 +1,2 @@
-my favorite programming language is python because it was the first one I learned and it is easy to write code. 
+My favorite programming language is python because it was the first one I learned and it is easy to write code. 
+I am more experienced in Python than Java or C because everything I can do in Java I think I could do in python but not the other way around. 
